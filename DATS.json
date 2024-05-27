@@ -1,0 +1,180 @@
+{
+    "title": "The Threat Superiority Effect Across Cultures",
+    "description": "",
+    "dates": [
+        {
+            "date": "2022-02-15 00:00:00",
+            "type": {
+                "value": "start date"
+            }
+        },
+        {
+            "date": "2023-07-27 00:00:00",
+            "type": {
+                "value": "end date"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "name": "Laval University"
+	},
+    {
+            "name": "Isabelle Blanchette",
+            "roles": [
+                {
+                    "value": "Principal Investigator"
+                }
+            ]
+        },
+        {
+            "name": "Anna Blumenthal",
+            "roles": [
+                {
+                    "value": "Contributor"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "electroencephalography",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0741211"
+            }
+        }
+    ],
+    "version": "1.0",
+    "privacy": "registered",
+    "distributions": [
+        {
+            "formats": [
+                "EDF",
+                "JSON"
+            ],
+            "size" : 2.5,
+            "unit" : {
+                "value": "GB"
+            },
+            "access" : {
+                "landingPage" : "",
+				"authorizations": [
+					{
+						"value": "private"
+					}
+				]
+            }
+        }
+    ],
+    "isAbout": [
+		{
+      		"name": "Homo sapiens",
+     		"identifier": {
+        		"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        		"identifierSource": "NCBI Taxonomy Database"
+			}
+    	}
+    ],
+    "spatialCoverage": [
+        {
+            "name": "North America",
+            "description": ""
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "CC-BY",
+            "version": "4.0"
+        }
+    ],
+	"primaryPublications" : [
+		{
+            "identifier" : {
+				"identifier": ""
+			}
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "eegnet-logo_0.png"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "345"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "26"
+				}
+			]
+		},
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "Laval University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+		{
+			"category": "registrationPage",
+      		"values": [
+       			 {
+          			"value": "https://eegnet.loris.ca/"
+        		}
+			]
+    	},
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
+    ]
+}
