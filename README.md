@@ -3,7 +3,7 @@
 TSE
 
 **Expected experimentation period**\
-Start date: 15/02/2022
+Start date: 15/02/2022\
 End date: 27/07/2023
 
 **Experimental location**\
