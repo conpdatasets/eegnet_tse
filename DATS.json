@@ -88,6 +88,29 @@
             "version": "4.0"
         }
     ],
+    "keywords": [
+        {
+        	"value": "eeg"
+	},
+	{
+		"value": "P1/P100 ERP"
+	},
+	{
+		"value": "threat superiority effect"
+        },		
+	{
+		"value": "visual search task"
+        },		
+	{
+		"value": "african"
+	},
+    	{
+		"value": "cross-cultural"
+	},
+    	{
+		"value": "visual attention"
+	}
+    ],
 	"primaryPublications" : [
 		{
             "identifier" : {
