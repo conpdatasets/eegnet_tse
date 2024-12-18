@@ -13,7 +13,7 @@ Laval University, Quebec, QC
 Participants performed a visual search task.There were target trials and no-target trials. On no-target trials 4 images from the same category were presented (e.g., 4 ropes) and participants had to press a key on the keyboard to indicate "same". In target trials 3 images were from the same category, and 1 image was from a different category, participants had to press a key to indicate "different." On threatening target trials the  target (different) image was threatening in nature (e.g., 1 snake with 3 ropes). On neutral target trials the target was benign (e.g., a spaghetti with 3 ropes). No-target trials were always benign (4 ropes). Threat targets, benign targets, and matched distractors were as follows: snakes+spaghetti+ropes, spiders+palm trees+pines, lions+cats+dogs, knives+pens+spoons, guns+sprinklerhead+triangle-measure, syringe+nail+fork. Each trial type was given a distinct trigger code, because we are interested in looking at correlations between fear/experience with a specific threat type (snake) , RT, and the P100 elevation. Metrics on experience were collected prior to the visual search task, EEG was recording but with no triggers. Participants were instructed to respond as quikcly and accurately as possible, and variable 500-1500ms inter-trial interval with a fixation cross was present.
 
 **Participant categories**\
-29 neurologically healthy young adults (African = 14, Quebecois = 15) participated in the study.
+Twenty-six neurologically healthy young adults participated in the study (13 women; mean age of 23.26 ± 4,03 years, ranging from 18 to 35; mean education 17.5 ± 3.7 years, ranging from 13 to 28). The group was composed of eleven Africans and fifteen Quebecois.
 
 **Trigger channels**\
 n/a
