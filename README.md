@@ -43,6 +43,6 @@ n/a
 Natural Sciences and Engineering Research Council of Canada - Discovery grant acceleration supplement
 
 **Contact Person**\
-Anna Blumenthal: anna.blumenthal@cervo.ulaval.ca\
+Anna Blumenthal: anna.blumenthal@cervo.ulaval.ca
 
 Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
