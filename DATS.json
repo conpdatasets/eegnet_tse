@@ -97,10 +97,10 @@
 	},
 	{
 		"value": "threat superiority effect"
-        },		
+        },
 	{
 		"value": "visual search task"
-        },		
+        },
 	{
 		"value": "african"
 	},
@@ -180,6 +180,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
