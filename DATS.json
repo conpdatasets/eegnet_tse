@@ -183,6 +183,14 @@
                 }
             ]
         },
+        {
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGNet"
+                }
+            ]
+        },
 		{
 			"category": "registrationPage",
       		"values": [
